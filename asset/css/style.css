@@ -1,0 +1,70 @@
+*{
+	box-sizing:border-box;
+	
+}
+.logo{
+	 
+	
+}
+.cname{
+	 background-color:#E94C3F;
+	 height:150px;
+	 text-align:center;
+	 padding-top:30px;
+	 font-size:40px;
+	 color:white;
+	 font-weight:bold;/*used bold the text*/
+
+}
+.menu{
+	background-color:#A9A79F;
+	margin-top:10px;
+	height:50px;
+	text-align:center;
+	padding-top:16px;
+ 	
+}
+.menu a{
+	color:white;
+	text-decoration:none;/*achor tag underline remove the menu*/
+	font-size:20px;/*font size 20px in text*/
+	font-weight:bold;
+	display:block;
+}
+.banner{
+	background-color:#787876;
+	margin-top:10px;
+	height:400px;
+	text-align:center;
+	padding-top:1px;
+	color:white;
+	font-size:50px;
+	font-weight:bold;
+}
+.phase{
+	text-align:justify;
+}
+
+.address{
+	background-color:#E94C3F;
+	margin-top:10px;
+	height:100px;
+	
+	
+	
+	
+}
+.qlinks{
+	background-color:#E94C3F;
+	margin-top:10px;
+	height:100px;
+	
+	
+}
+.social{
+	background-color:#E94C3F;
+	margin-top:10px;
+	height:100px;
+	
+}
+	
